@@ -1,0 +1,44 @@
+*{
+	margin:0;
+}
+body{
+	background-image: url("44729.jpg");
+	background-size: cover;
+}
+
+#title{
+	display: flex;
+	justify-content:center;
+	font-size: 150%;
+	padding-top:5%;
+	font-family:Trattatello, fantasy;
+	color: white;
+	text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+}
+
+main{
+	margin:0;
+	display:flex;
+}
+
+#register{
+	width:50%;
+	display:flex;
+	flex-direction: column;
+	justify-content:center;
+	padding:15%;
+		font-family:Trattatello, fantasy;
+	color: white;
+	text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+}
+
+#login{
+	width:50%;
+	display:flex;
+	flex-direction: column;
+	justify-content:center;
+	padding:15%;
+		font-family:Trattatello, fantasy;
+	color: white;
+	text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+}

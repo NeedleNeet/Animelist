@@ -1,0 +1,45 @@
+header{
+	height:200px;
+	background-image: url("37829.png");
+	background-size: cover;
+	font-family:Trattatello, fantasy;
+	color: white;
+	text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+}
+
+button{
+	background-color: #007bff;
+	border-radius: 5px;
+	border:none;
+	padding:15px 32px;
+	font-family:Trattatello, fantasy;
+	color: white;
+	text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+}
+
+#nav{
+	background-color:#add8e6;
+	display:flex;
+	flex-direction:row;
+	padding:5px;
+	justify-content:space-between;
+}
+
+#container{
+	width:40%;
+	display: flex;
+	flex-direction: row;
+	justify-content: space-evenly;
+}
+
+#top{
+	width:20%;
+	display: flex;
+	flex-direction: row;
+	justify-content: flex-end;
+}
+
+#bar{
+	height:80%;
+	border-radius: 5px;
+}
