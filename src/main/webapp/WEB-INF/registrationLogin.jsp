@@ -38,7 +38,7 @@
 			            <form:label path="passwordConfirm">Password Confirmation:</form:label><br>
 			            <form:password path="passwordConfirm"/>
 			        </p>
-			        <input type="submit" value="Register"/>
+			        <button type="submit">Register</button>
 			    </form:form>
 		    </div>
 	    </div>
@@ -58,7 +58,7 @@
 			            <label for="password">Password:</label><br>
 			            <input type="password" id="password" name="password"/>
 			        </p>
-			        <input type="submit" value="Login"/>
+			        <button type="submit">Login</button>
 			    </form>
 		    </div>
 	    </div>
